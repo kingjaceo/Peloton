@@ -1,0 +1,1 @@
+Peloton is a game about controlling the collective conscious of the Peloton. Bikers obey simple "boyds" properties to achieve flock-like behavior. The goal is to be as fast as possible. Sharp turns at fast speeds are likely to wreck the peloton, but you can improve the peloton for better speeds!
